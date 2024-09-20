@@ -49,7 +49,7 @@
             bottom: 0;
             left: 0;
             width: 100%;
-            padding: 10px;
+            padding: 0px;
             background-color: rgba(0, 0, 0, 0.6);
             color: white;
             text-align: center;
