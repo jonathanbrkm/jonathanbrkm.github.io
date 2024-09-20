@@ -168,13 +168,12 @@
             <div class="hover-title">Israel Prize</div>
         </a>
     </div>
-    
+
     <div class="gallery-item">
-        <a>
-            <img src="images/wikipedia_conf.jpg" alt="Wikipedia's Birthday Event">
-            <div class="hover-title">Wikipedia's Birthday Event</div>
+        <a href="https://www.youtube.com/watch?v=7LpV4eHKxbc&list=PLuQcXKjU3rwJuTzkBXB3kbGYPiCG9W1rh&index=6" target="_blank">
+            <img src="images/fake.jpg" alt="Fake at Reichman University">
+            <div class="hover-title">Fake at Reichman University</div>
         </a>
-    </div>
     
     <div class="gallery-item">
         <a>
