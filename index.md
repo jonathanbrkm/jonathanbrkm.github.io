@@ -34,8 +34,8 @@
         }
 
         .gallery-item img {
-            width: 100%;
-            height: auto;
+            width: 100px;
+            height: 100px;
             display: block;
             transition: transform 0.3s ease;
         }
