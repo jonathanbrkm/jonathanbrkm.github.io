@@ -148,5 +148,6 @@
             <div class="hover-title">Lecture by Chairman of RAFAEL</div>
         </a>
     </div>
+</div>
 
 ---
