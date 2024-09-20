@@ -49,7 +49,8 @@
             bottom: 0;
             left: 0;
             width: 100%;
-            padding: 0px;
+            padding-bottom: 3px;
+            padding-top: 3px;
             background-color: rgba(0, 0, 0, 0.6);
             color: white;
             text-align: center;
