@@ -155,13 +155,14 @@
             <div class="hover-title">Wikipedia's Birthday Event</div>
         </a>
     </div>
+    
     <div class="gallery-item">
         <a>
             <img src="images/steinitz.jpg" alt="Lecture by Chairman of RAFAEL">
             <div class="hover-title">Lecture by Chairman of RAFAEL</div>
         </a>
     </div>
-    
+            <a>
     <div class="gallery-item">
         <a href="https://main.knesset.gov.il/Activity/committees/Science/Pages/CommitteeTVarchive.aspx?TopicID=27410" target="_blank">
             <img src="images/israel_prize.jpg" alt="Israel Prize">
@@ -170,16 +171,11 @@
     </div>
 
     <div class="gallery-item">
+            <a>
         <a href="https://www.youtube.com/watch?v=7LpV4eHKxbc&list=PLuQcXKjU3rwJuTzkBXB3kbGYPiCG9W1rh&index=6" target="_blank">
             <img src="images/fake.png" alt="Fake at Reichman University">
             <div class="hover-title">Fake at Reichman University</div>
         </a>
     
-    <div class="gallery-item">
-        <a>
-            <img src="images/steinitz.jpg" alt="Lecture by Chairman of RAFAEL">
-            <div class="hover-title">Lecture by Chairman of RAFAEL</div>
-        </a>
-    </div>
     
 </div>
