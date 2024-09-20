@@ -1,20 +1,3 @@
-## Portfolio
-
----
-
-### Research
-
-[Attochaos](https://arxiv.org/pdf/2405.05804)
-<img src="images/attochaos.png?raw=true"/>
-
----
-[Generalized Kicked Rotor]()
-<img src="images/Kicked_rotor.png?raw=true"/>
-
----
-
-### Media Appearances
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -65,6 +48,31 @@
     <title>3x3 Photo Gallery</title>
 </head>
 <body>
+
+## Portfolio
+
+---
+
+### Research
+
+<div class="gallery">
+    <div class="gallery-item">
+        <a href="https://arxiv.org/pdf/2405.05804" target="_blank">
+            <img src="images/attochaos.png" alt="Attochaos">
+            <div class="hover-title">Attochaos</div>
+        </a>
+    </div>
+    <div class="gallery-item">
+        <a>
+            <img src="images/Kicked_rotor.png" alt="Generalized Kicked Rotor">
+            <div class="hover-title">Generalized Kicked Rotor</div>
+        </a>
+    </div>
+</div>
+
+---
+
+### Media Appearances
 
 <div class="gallery">
     <div class="gallery-item">
@@ -127,7 +135,7 @@
 </html>
 
 ---
-### Conferences
+### Organization of Conferences
 
 <div class="gallery">
     <div class="gallery-item">
@@ -149,5 +157,3 @@
         </a>
     </div>
 </div>
-
----
