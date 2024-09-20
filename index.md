@@ -117,7 +117,7 @@
     </div>
     <div class="gallery-item">
         <a href="https://www1.nobexpartners.com/share.aspx?playurl=https://api.bynetcdn.com/Redirector/glz/240423-10/PD?awCollectionId=2198&awEpisodeId=240423-10&stationid=91324" target="_blank">
-            <img src="chaser.jpg" alt="Division of Time">
+            <img src="chaser.png" alt="Division of Time">
             <div class="hover-title">Division of Time</div>
         </a>
     </div>
