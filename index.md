@@ -131,16 +131,19 @@
 
 <div class="gallery">
     <div class="gallery-item">
+        <a>
             <img src="images/David_Tannor.jpg" alt="David Tannor's 65th birthday">
             <div class="hover-title">David Tannor's 65th birthday</div>
         </a>
     </div>
     <div class="gallery-item">
+        <a>
             <img src="images/wikipedia_conf.jpg" alt="Wikipedia's Birthday Event">
             <div class="hover-title">Wikipedia's Birthday Event</div>
         </a>
     </div>
     <div class="gallery-item">
+        <a>
             <img src="images/steinitz.jpg" alt="Lecture by Chairman of RAFAEL">
             <div class="hover-title">Lecture by Chairman of RAFAEL</div>
         </a>
