@@ -117,7 +117,7 @@
     </div>
     <div class="gallery-item">
         <a href="https://www1.nobexpartners.com/share.aspx?playurl=https://api.bynetcdn.com/Redirector/glz/240423-10/PD?awCollectionId=2198&awEpisodeId=240423-10&stationid=91324" target="_blank">
-            <img src="chaser.png" alt="Division of Time">
+            <img src="images/chaser.png" alt="Division of Time">
             <div class="hover-title">Division of Time</div>
         </a>
     </div>
@@ -127,11 +127,23 @@
 </html>
 
 ---
-
 ### Conferences
 
-
-
-
+<div class="gallery">
+    <div class="gallery-item">
+            <img src="images/David_Tannor.jpg" alt="David Tannor's 65th birthday">
+            <div class="hover-title">David Tannor's 65th birthday</div>
+        </a>
+    </div>
+    <div class="gallery-item">
+            <img src="images/wikipedia_conf.jpg" alt="Wikipedia's Birthday Event">
+            <div class="hover-title">Wikipedia's Birthday Event</div>
+        </a>
+    </div>
+    <div class="gallery-item">
+            <img src="images/steinitz.jpg" alt="Lecture by Chairman of RAFAEL">
+            <div class="hover-title">Lecture by Chairman of RAFAEL</div>
+        </a>
+    </div>
 
 ---
