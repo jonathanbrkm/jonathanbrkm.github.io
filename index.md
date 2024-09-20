@@ -75,6 +75,7 @@
     </div>
 </div>
 
+
 ---
 ### Media Appearances
 
@@ -139,7 +140,7 @@
 </html>
 
 ---
-### Organization of Conferences
+### Conferences and Public Speaking
 
 <div class="gallery">
     <div class="gallery-item">
@@ -160,4 +161,26 @@
             <div class="hover-title">Lecture by Chairman of RAFAEL</div>
         </a>
     </div>
+    
+    <div class="gallery-item">
+        <a href="https://www.kan.org.il/content/kan/podcasts/p-8522/790992/" target="_blank">
+            <img src="images/Israel_Prize.jpg" alt="Israel Prize">
+            <div class="hover-title">Israel Prize</div>
+        </a>
+    </div>
+    
+    <div class="gallery-item">
+        <a>
+            <img src="images/wikipedia_conf.jpg" alt="Wikipedia's Birthday Event">
+            <div class="hover-title">Wikipedia's Birthday Event</div>
+        </a>
+    </div>
+    
+    <div class="gallery-item">
+        <a>
+            <img src="images/steinitz.jpg" alt="Lecture by Chairman of RAFAEL">
+            <div class="hover-title">Lecture by Chairman of RAFAEL</div>
+        </a>
+    </div>
+    
 </div>
