@@ -67,51 +67,51 @@
 
 <div class="gallery">
     <div class="gallery-item">
-        <a href="https://example1.com" target="_blank">
-            <img src="image1.jpg" alt="Image 1">
-            <div class="hover-title">Title 1</div>
+        <a href="https://www.kan.org.il/content/kan/podcasts/p-8270/799053/" target="_blank">
+            <img src="threethatknows.png" alt="Image 1">
+            <div class="hover-title">Dark Electrons</div>
         </a>
     </div>
     <div class="gallery-item">
-        <a href="https://example2.com" target="_blank">
-            <img src="image2.jpg" alt="Image 2">
-            <div class="hover-title">Title 2</div>
+        <a href="https://www.kan.org.il/content/kan/podcasts/p-8270/794883/" target="_blank">
+            <img src="threethatknows.png" alt="Image 2">
+            <div class="hover-title">The Lithium Rebellion</div>
         </a>
     </div>
     <div class="gallery-item">
-        <a href="https://example3.com" target="_blank">
-            <img src="image3.jpg" alt="Image 3">
-            <div class="hover-title">Title 3</div>
+        <a href="https://www.kan.org.il/content/kan/podcasts/p-8270/783933/" target="_blank">
+            <img src="threethatknows.png" alt="Image 3">
+            <div class="hover-title">Physics of Papercuts</div>
         </a>
     </div>
     <div class="gallery-item">
-        <a href="https://example4.com" target="_blank">
-            <img src="image4.jpg" alt="Image 4">
-            <div class="hover-title">Title 4</div>
+        <a href="https://www.kan.org.il/content/kan/podcasts/p-8270/783077/" target="_blank">
+            <img src="threethatknows.png" alt="Image 4">
+            <div class="hover-title">The Solar Robot</div>
         </a>
     </div>
     <div class="gallery-item">
-        <a href="https://example5.com" target="_blank">
-            <img src="image5.jpg" alt="Image 5">
-            <div class="hover-title">Title 5</div>
+        <a href="https://www.kan.org.il/content/kan/podcasts/p-8270/775841/" target="_blank">
+            <img src="threethatknows.png" alt="Image 5">
+            <div class="hover-title">A New Blackhole</div>
         </a>
     </div>
     <div class="gallery-item">
-        <a href="https://example6.com" target="_blank">
-            <img src="image6.jpg" alt="Image 6">
-            <div class="hover-title">Title 6</div>
+        <a href="https://www.glz.co.il/%D7%92%D7%9C%D7%A6/%D7%AA%D7%95%D7%9B%D7%A0%D7%99%D7%95%D7%AA/%D7%99%D7%A0%D7%99%D7%A8-%D7%A7%D7%95%D7%96%D7%99%D7%9F-%D7%95%D7%A1%D7%A4%D7%99-%D7%A2%D7%95%D7%91%D7%93%D7%99%D7%94" target="_blank">
+            <img src="sefi_veyanir.jpg" alt="Image 6">
+            <div class="hover-title">Netanyahu and Wikipedia</div>
         </a>
     </div>
     <div class="gallery-item">
-        <a href="https://example7.com" target="_blank">
-            <img src="image7.jpg" alt="Image 7">
-            <div class="hover-title">Title 7</div>
+        <a href="https://glz.co.il/%D7%92%D7%9C%D7%A6/%D7%AA%D7%95%D7%9B%D7%A0%D7%99%D7%95%D7%AA/%D7%A6%D7%99%D7%A4%D7%95%D7%A8%D7%99-%D7%9C%D7%99%D7%9C%D7%94-%D7%91%D7%9E%D7%9E%D7%93-%D7%A2%D7%9D-%D7%93%D7%95%D7%93%D7%95-%D7%90%D7%A8%D7%96-%D7%95%D7%90%D7%91%D7%99-%D7%90%D7%98%D7%99%D7%A0%D7%92%D7%A8/%D7%93%D7%95%D7%93%D7%95-%D7%90%D7%A8%D7%96-%D7%95%D7%90%D7%91%D7%99-%D7%90%D7%98%D7%99%D7%A0%D7%92%D7%A831-05-2024-0001" target="_blank">
+            <img src="tziporey.jpg" alt="Image 7">
+            <div class="hover-title">Miracle Year of Einstein</div>
         </a>
     </div>
     <div class="gallery-item">
-        <a href="https://example8.com" target="_blank">
-            <img src="image8.jpg" alt="Image 8">
-            <div class="hover-title">Title 8</div>
+        <a href="https://www.kan.org.il/content/kan/podcasts/p-8522/790992/" target="_blank">
+            <img src="hamaabada.jpg" alt="Image 8">
+            <div class="hover-title">How Airconditioner Works?</div>
         </a>
     </div>
     <div class="gallery-item">
