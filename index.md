@@ -1,3 +1,9 @@
+## Portfolio
+
+---
+
+### Research
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -48,13 +54,6 @@
     <title>3x3 Photo Gallery</title>
 </head>
 <body>
----
-    
-## Portfolio
-
----
-
-### Research
 
 <div class="gallery">
     <div class="gallery-item">
