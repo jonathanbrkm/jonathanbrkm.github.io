@@ -15,8 +15,9 @@
 
 ### Public Speaking
 
-- [Project 1 Title](http://example.com/)
+<a href="https://www.kan.org.il/content/kan/podcasts/p-8270/"><img src="images/threethatknows.png?raw=true" alt="Podcast" style="height:42px;"></a>
 
+- [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
