@@ -67,6 +67,12 @@
             <div class="hover-title">Generalized Kicked Rotor</div>
         </a>
     </div>
+    <div class="gallery-item">
+        <a>
+            <img src="images/Bloch.png" alt="Chaos on Bloch Sphere">
+            <div class="hover-title">Chaos on Bloch Sphere</div>
+        </a>
+    </div>
 </div>
 
 ---
