@@ -2,14 +2,14 @@
 
 ---
 
-### Category Name 1 
+### Research
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Attochaos](https://arxiv.org/pdf/2405.05804)
+<img src="images/attochaos.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Generalized Kicked Rotor](/pdf/sample_presentation.pdf)
+<img src="images/Kicked_rotor.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
