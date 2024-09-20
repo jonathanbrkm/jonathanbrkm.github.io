@@ -1,7 +1,6 @@
 ## Portfolio
 
 ---
-
 ### Research
 
 <html lang="en">
@@ -71,7 +70,6 @@
 </div>
 
 ---
-
 ### Media Appearances
 
 <div class="gallery">
