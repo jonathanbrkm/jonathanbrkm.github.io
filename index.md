@@ -163,8 +163,8 @@
     </div>
     
     <div class="gallery-item">
-        <a href="https://www.kan.org.il/content/kan/podcasts/p-8522/790992/" target="_blank">
-            <img src="images/Israel_Prize.jpg" alt="Israel Prize">
+        <a href="https://main.knesset.gov.il/Activity/committees/Science/Pages/CommitteeTVarchive.aspx?TopicID=27410" target="_blank">
+            <img src="images/israel_prize.jpg" alt="Israel Prize">
             <div class="hover-title">Israel Prize</div>
         </a>
     </div>
