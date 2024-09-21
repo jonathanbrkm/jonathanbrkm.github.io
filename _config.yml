@@ -6,9 +6,13 @@ description: >
   <br><br>
   Sciencific communicator // Wikipedian // Public speaker
   <br><br>
-  <a href="https://www.linkedin.com/in/jonathan-berkheim/">🔎 LinkedIn</a>
+  <a href="https://www.linkedin.com/in/jonathan-berkheim/" target="_blank">
+    <img src="linkedin.png" alt="LinkedIn" style="width: 32px; height: 32px;">
+  </a>
   <br><br>
-  <a href="https://davidson.weizmann.ac.il/authors/יהונתן-ברקהיים">⚛️ Davidson Online</a> 
+  <a href="https://davidson.weizmann.ac.il/authors/יהונתן-ברקהיים" target="_blank">
+    <img src="davidson.png" alt="Davidson Online" style="width: 32px; height: 32px;">
+  </a>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
