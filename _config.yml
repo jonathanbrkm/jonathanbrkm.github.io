@@ -14,8 +14,10 @@ description: >
     <a href="https://davidson.weizmann.ac.il/authors/יהונתן-ברקהיים" target="_blank">
       <img src="images/davidson-bw.png" alt="Davidson Online" style="width: 32px; height: 32px;">
     </a>
+    <a href="https://x.com/jonathanBrkm" target="_blank">
+      <img src="images/x.png" alt="Twitter (X)" style="width: 32px; height: 32px;">
+    </a>
   </div>
-
 
   
 remote_theme: pages-themes/minimal@v0.2.0
