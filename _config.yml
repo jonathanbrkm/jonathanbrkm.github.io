@@ -7,14 +7,14 @@ description: >
   Sciencific communicator // Wikipedian // Public speaker
   <br><br>
   
-<div style="display: flex; gap: 10px;">
-  <a href="https://www.linkedin.com/in/jonathan-berkheim/" target="_blank">
-    <img src="images/linkedin-bw.png" alt="LinkedIn" style="width: 32px; height: 32px;">
-  </a>
-  <a href="https://davidson.weizmann.ac.il/authors/יהונתן-ברקהיים" target="_blank">
-    <img src="images/davidson-bw.png" alt="Davidson Online" style="width: 32px; height: 32px;">
-  </a>
-</div>
+  <div style="display: flex; gap: 10px;">
+    <a href="https://www.linkedin.com/in/jonathan-berkheim/" target="_blank">
+      <img src="images/linkedin-bw.png" alt="LinkedIn" style="width: 32px; height: 32px;">
+    </a>
+    <a href="https://davidson.weizmann.ac.il/authors/יהונתן-ברקהיים" target="_blank">
+      <img src="images/davidson-bw.png" alt="Davidson Online" style="width: 32px; height: 32px;">
+    </a>
+  </div>
 
 
   
